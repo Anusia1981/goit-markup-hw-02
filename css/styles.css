@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+.othercolor {
+  color: #2196f3;
+}
+.backcolor {
+  color: black;
+}
+.mainheader {
+  background-color: #2f303a;
+  color: white;
+  text-align: center;
+}
+.lastpart {
+  background-color: #2f303a;
+  color: white;
+}
+.button-color {
+  background-color: #2196f3;
+  color: white;
+}
