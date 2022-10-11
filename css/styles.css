@@ -7,7 +7,7 @@ body{
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1;
+    line-height: 1.4;
     text-decoration: none;
     color: #000000;
 }
@@ -19,13 +19,16 @@ body{
     font-family: Raleway;
     font-weight: 700;
     color: #2196F3;
+    line-height: 1.4;
 }
 .contact {
     font-weight: 500;
     color: #757575;
+    line-height: 1.2;
 }
 .nav-name {
     text-decoration: none;
+    line-height: 1.2;
 }
 .nav-name:hover, .contact:hover, .nav-name:focus, .contact:focus {
     color: #2196F3;
@@ -37,6 +40,7 @@ body{
 .page-title {
     font-weight: 900;
     color: #FFFFFF;
+    line-height: 1.4;
 }
 .button-title {
     background-color: #2196F3;
@@ -44,6 +48,7 @@ body{
     border-color: #2196F3;
     font-weight: 700;
     font-size: 16px;
+    line-height: 2;
 }
 .button-title:hover, .button-title:focus {
     color:
@@ -54,15 +59,18 @@ body{
 .lorem-title {
     color: #212121;
     font-weight: 700;
+    line-height: 1.1;
 }
 .lorem-text {
     color: #757575;
+    line-height: 1.7;
 }
 .our-jobs {
     font-weight: 700;
     font-size: 36px;
     text-align: center;
     color: #212121;
+    line-height: 1.2;
 }
 .team-backgrond {
     color: #F5F4FA;
@@ -70,12 +78,15 @@ body{
 .name {
     font-weight: 500;
     color: #212121;
+    line-height: 1.2;
 }
 .working-at {
     color: #757575;
+    line-height: 1.2;
 }
 .address-letters {
     color: #FFFFFF;
+    line-height: 1.8;
 }
 .address-letters:hover, .address-letters:focus {
     color: #2196F3;
@@ -87,7 +98,7 @@ body{
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1;
+    line-height: 1.2;
     text-decoration: none;
     color: #FFFFFF;
 }
@@ -104,14 +115,17 @@ body{
     border-color: #F5F4FA;
     font-size: 16px;
     text-align: center;
+    line-height: 1.6;
 }
 .name-of-picture {
     font-weight: 700;
     color: #212121;
     font-size: 18px;
+    line-height: 2;
 }
 .item {
     color:#757575;
     font-size: 16px;
     font-weight: 400;
+    line-height: 1.8;
 }
