@@ -1,0 +1,117 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    cursor: pointer;
+}
+.logo-link {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1;
+    text-decoration: none;
+    color: #000000;
+}
+.logo-link:hover, .logo-link:focus {
+    color:#2196F3;
+}
+
+.logo-first-letters {
+    font-family: Raleway;
+    font-weight: 700;
+    color: #2196F3;
+}
+.contact {
+    font-weight: 500;
+    color: #757575;
+}
+.nav-name {
+    text-decoration: none;
+}
+.nav-name:hover, .contact:hover, .nav-name:focus, .contact:focus {
+    color: #2196F3;
+}
+.title{
+    background-color: #2F303A;
+    text-align: center;
+}
+.page-title {
+    font-weight: 900;
+    color: #FFFFFF;
+}
+.button-title {
+    background-color: #2196F3;
+    color: #FFFFFF;
+    border-color: #2196F3;
+    font-weight: 700;
+    font-size: 16px;
+}
+.button-title:hover, .button-title:focus {
+    color:
+}
+.main-text {
+    background-color: #E5E5E5;
+}
+.lorem-title {
+    color: #212121;
+    font-weight: 700;
+}
+.lorem-text {
+    color: #757575;
+}
+.our-jobs {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #212121;
+}
+.team-backgrond {
+    color: #F5F4FA;
+}
+.name {
+    font-weight: 500;
+    color: #212121;
+}
+.working-at {
+    color: #757575;
+}
+.address-letters {
+    color: #FFFFFF;
+}
+.address-letters:hover, .address-letters:focus {
+    color: #2196F3;
+}
+.address-color {
+    background-color: #2F303A;
+}
+.footer-logo-link {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.button-portfolio:hover, .button-portfolio:focus {
+    background-color: #2196F3;
+    color: #FFFFFF;
+    border-color: #2196F3;
+}
+.button-portfolio {
+    font-family: 'Roboto';
+    font-weight: 500;
+    background-color: #F5F4FA;
+    color: #212121;
+    border-color: #F5F4FA;
+    font-size: 16px;
+    text-align: center;
+}
+.name-of-picture {
+    font-weight: 700;
+    color: #212121;
+    font-size: 18px;
+}
+.item {
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+}
